@@ -1,2 +1,3 @@
 # Dollar ($)watch Example
 practice example in $watch/............
+http://dailytask.github.io/DollarwatchExample/
